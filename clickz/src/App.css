@@ -1,0 +1,13 @@
+.wrapper {
+  height: 200px;
+  display: ruby-base-container;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: space-around;
+  align-content: flex-start;
+
+}
+
+.bg {
+
+}

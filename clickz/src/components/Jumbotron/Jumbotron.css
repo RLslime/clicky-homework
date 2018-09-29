@@ -1,0 +1,34 @@
+.header{
+	background-color: #ccc;
+	position: relative;
+    width: 100%;
+    background-image: url("timanderic.gif");
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+h1{
+	text-align: center;
+	font-size: 90px;
+	font-weight: bold;
+    padding: 90px 0 20px 0; 
+    color: #ccc;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+    padding-bottom: 40px;
+    color: #ccc;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
